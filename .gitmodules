@@ -1,0 +1,3 @@
+[submodule "submodules/PasswordGeneratorPython"]
+	path = submodules/PasswordGeneratorPython
+	url = https://github.com/AddisonWolfe/PasswordGeneratorPython.git
